@@ -24,4 +24,5 @@ Se incluirá una plantilla para registrar errores, mejoras o tareas dentro del r
 
 ## Conclusión
 Esta práctica permite comprender la importancia de organizar correctamente un repositorio en GitHub y utilizar herramientas de seguimiento como los issues para mejorar la gestión de calidad del software.
+
 Actualización del README inicial
