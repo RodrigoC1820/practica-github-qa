@@ -1,0 +1,2 @@
+# Documentación
+Carpeta destinada a la documentación del proyecto.
